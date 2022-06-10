@@ -1,0 +1,17 @@
+{
+  "name": "agoratoken",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "author": "khantanveer",
+  "description": "",
+  "dependencies": {
+    "agora-access-token": "^2.0.4",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
